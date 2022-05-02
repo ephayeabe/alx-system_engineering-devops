@@ -4,7 +4,7 @@ This project contains tasks for learning about writing a postmortem.
 
 ## Tasks To Complete
 
-+ [x] 0. My first postmortem<br/>_**[README.md](https://medium.com/@antukassaw1/postmortem-500-error-outage-d2d1bb7ef11c)**_ contains a blog post that meets the following requirements:
++ [x] 0. My first postmortem<br/>_**[README.md](https://medium.com/@ephremyeabe@gmail.com/postmortem-500-error-outage-d2d1bb7ef11c**_ contains a blog post that meets the following requirements:
   + **INFO:**
     + Using one of the web stack debugging project issue or an outage you have personally face, write a postmortem. Most of you will never have faced an outage, so just get creative and invent your own :)
     + While postmortem format can vary, stick to this one so that you can get properly reviewed by your peers.
@@ -29,7 +29,7 @@ This project contains tasks for learning about writing a postmortem.
       + Be brief and straight to the point, between 400 to 600 words
 
 + [x] 1. Make people want to read your postmortem
-+  [README.md](https://medium.com/@antukassaw1/postmortem-500-error-outage-d2d1bb7ef11c)
++  [README.md](https://medium.com/@ephremyeabe@gmail.com/postmortem-500-error-outage-d2d1bb7ef11c)
   + We are constantly stormed by a quantity of information, it’s tough to get people to read you.
   + Make your post-mortem attractive by adding humour, a pretty diagram or anything that would catch your audience attention.
 
